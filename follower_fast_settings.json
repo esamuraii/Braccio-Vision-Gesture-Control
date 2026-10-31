@@ -1,0 +1,12 @@
+{
+  "base": 30,
+  "elbow": 95,
+  "base_min": 20,
+  "base_max": 160,
+  "elbow_min": 65,
+  "elbow_max": 125,
+  "offset": [
+    0.0,
+    0.0
+  ]
+}
